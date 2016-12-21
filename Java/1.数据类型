@@ -1,0 +1,14 @@
+# 数据类型
+* String
+* boolean
+* float
+* int
+* short
+* byte
+* char
+## 引用数据类型
+* 数组
+* 接口
+* 类
+###相关
+1,String,StringBuffer,StringBuilder的区别
